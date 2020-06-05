@@ -16,4 +16,4 @@
  [Тексты, лемматизированные в Mystem](https://drive.google.com/drive/folders/1yWufARbfCB8lO3J1MPvItdyefYHSiKtk?usp=sharing)
 # AntConc
 ## Частотный список слов
-![frequency list](
+![frequency list](частотный список.png)

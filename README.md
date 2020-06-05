@@ -72,12 +72,15 @@
 ![umirat](умирать.png)
 
 
+
+
 А также невозможно не отметить, что Летов работает с историко-политическими терминами и фактами. Известно, что сам он был коммунистом, поэтому конкордансы слов "Ленин", "коммунизм" и "революция" позитивны и даже в лемматизированном виде напоминают "бодрые марши" или выкрики толпы.
+
+![egor i lenin](https://lh3.googleusercontent.com/proxy/XGvyzjSfXz6Aonhesz0K-_SbcXqGzEUVhFAx9YKafwDYfjYqHOv8IZ4Ta1F0m6Owv3aeDfPG-_8ag3nVUZPHbv9A6x-jtlDNO-5aUWOssrZXGTC4JUGElLQVpyI3RezZEcIxwen6UqwreX5SNbXYvIzOpjbtawi3SsEs6tfajwLR74g2Iu0S6GBJwBtCp4Cw29OdUTN7Q5QjtiR50ce51VXL5eVzA5CyW92_sD5tBZmQ2t4TMCMgg0boNSwoChtQgAmSQbMAPaQzqcibz0UMCkXGW8ixWVVSROo90VqvMRRC6lxu7j7R1LMz254fjYQmzD03DNIuhstFtPWLcnFAkMIOCl0ou9JkY_ZvewqvJF2MRfEtuMspzdrPbqI3JVG_U6vznhvHaTb0U7TXaWCZ1A)
+
 
 1."ленин"
 
-
-![egor i lenin](https://lh3.googleusercontent.com/proxy/XGvyzjSfXz6Aonhesz0K-_SbcXqGzEUVhFAx9YKafwDYfjYqHOv8IZ4Ta1F0m6Owv3aeDfPG-_8ag3nVUZPHbv9A6x-jtlDNO-5aUWOssrZXGTC4JUGElLQVpyI3RezZEcIxwen6UqwreX5SNbXYvIzOpjbtawi3SsEs6tfajwLR74g2Iu0S6GBJwBtCp4Cw29OdUTN7Q5QjtiR50ce51VXL5eVzA5CyW92_sD5tBZmQ2t4TMCMgg0boNSwoChtQgAmSQbMAPaQzqcibz0UMCkXGW8ixWVVSROo90VqvMRRC6lxu7j7R1LMz254fjYQmzD03DNIuhstFtPWLcnFAkMIOCl0ou9JkY_ZvewqvJF2MRfEtuMspzdrPbqI3JVG_U6vznhvHaTb0U7TXaWCZ1A)
 
 ![lenin!](ленин.jpg)
 

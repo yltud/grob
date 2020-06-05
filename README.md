@@ -119,7 +119,7 @@
 ![vse gody](тренды все годы.png)
 
 Статистика
-![vse gody](все годы.png)
+![vse gody](все годы.jpg)
 ![vse gody](все годы доки.jpg)
 
 
